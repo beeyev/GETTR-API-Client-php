@@ -1,0 +1,8 @@
+{
+  "insertPragma": true,
+  "singleQuote": true,
+  "braceStyle": "psr-2",
+  "phpVersion": "7.3"
+}
+
+
